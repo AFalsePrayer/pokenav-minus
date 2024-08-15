@@ -2047,7 +2047,7 @@ function heal(slot)
 	end
 end
 
-function I()
+function nursejoy()
 	for i=emu:read8(game._partyCount),1,-1 do
 		heal(i)
 	end
@@ -2063,8 +2063,6 @@ function help()
 	buffer:print(" freeze(slot) - Freezes chosen slot in party\n")
 	buffer:print(" bedtime() - Pre-sleeps entire party\n")
 	buffer:print(" sethp(slot,HP) - sets hp of slot to specified hp\n")
-	buffer:print(" exportparty() - exports showdown calc verison of party to console\n")
-	buffer:print(" exportall() - exports showdown calc version of first 5 boxes + party to console\n")
 	buffer:print(" getabilities() - exports ability slots\n")
 	buffer:print(" edge(slot) - edges slot\n")
 	buffer:print(" edge(slot, amt) - edges slot to specific amount\n")
