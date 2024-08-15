@@ -1,4 +1,4 @@
-VERSION = "1.0"
+VERSION = "EK PokéNav Minus 1.0"
 
 -- buffer = console:createBuffer("Exports")
 wd = nil
