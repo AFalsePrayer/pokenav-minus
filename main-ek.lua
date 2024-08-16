@@ -6,7 +6,7 @@ wd = nil
 function start()
     console:log("\nCalling Roxanne...")
     wd = debug.getinfo(start).source:match("@?(.*[/\\])") or ""
-    dofile(wd .. "src/constants.lua")
+    dofile(wd .. "src/constants-ek.lua")
     dofile(wd .. "src/network.lua")
     -- callbacks:add("frame", update)
 	-- callbacks:add("reset", updateGame)
