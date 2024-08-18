@@ -743,394 +743,6 @@ move = {
 	[354] = { name = 'Psycho Boost', maxPP = 8 }
 } 
 
-ability = {
-	'Overgrow','Overgrow',
-	'Overgrow','Overgrow',
-	'Chlorophyll','Overgrow',
-	'Blaze','Blaze',
-	'Blaze','Blaze',
-	'Blaze','Blaze',
-	'Torrent','Torrent',
-	'Torrent','Torrent',
-	'Torrent','Torrent',
-	'Shield Dust','Shield Dust',
-	'Shed Skin','Shed Skin',
-	'Compound Eyes','Compound Eyes',
-	'Shield Dust','Shield Dust',
-	'Shed Skin','Shed Skin',
-	'Swarm','Swarm',
-	'Keen Eye','Keen Eye',
-	'Keen Eye','Keen Eye',
-	'Early Bird','Early Bird',
-	'Run Away','Run Away',
-	'Guts','Guts',
-	'Keen Eye','Keen Eye',
-	'Early Bird','Early Bird',
-	'Intimidate','Shed Skin',
-	'Intimidate','Shed Skin',
-	'Lightning Rod','Lightning Rod',
-	'Lightning Rod','Lightning Rod',
-	'Sand Veil','Sand Veil',
-	'Sand Veil','Sand Veil',
-	'Poison Point','Poison Point',
-	'Poison Point','Poison Point',
-	'Poison Point','Poison Point',
-	'Poison Point','Poison Point',
-	'Poison Point','Poison Point',
-	'Poison Point','Poison Point',
-	'Cute Charm','Cute Charm',
-	'Cute Charm','Cute Charm',
-	'Pressure','Pressure',
-	'Pressure','Pressure',
-	'Cute Charm','Cute Charm',
-	'Cute Charm','Cute Charm',
-	'Inner Focus','Inner Focus',
-	'Inner Focus','Inner Focus',
-	'Chlorophyll','Chlorophyll',
-	'Chlorophyll','Chlorophyll',
-	'Chlorophyll','Chlorophyll',
-	'Effect Spore','Effect Spore',
-	'Effect Spore','Effect Spore',
-	'Compound Eyes','Shield Dust',
-	'Compound Eyes','Shield Dust',
-	'Arena Trap','Sand Veil',
-	'Arena Trap','Sand Veil',
-	'Limber','Limber',
-	'Limber','Limber',
-	'Swift Swim','Oblivious',
-	'Swift Swim','Oblivious',
-	'Vital Spirit','Vital Spirit',
-	'Vital Spirit','Vital Spirit',
-	'Intimidate','Run Away',
-	'Intimidate','Blaze',
-	'Swift Swim','Swift Swim',
-	'Swift Swim','Swift Swim',
-	'Swift Swim','Swift Swim',
-	'Synchronize','Inner Focus',
-	'Synchronize','Inner Focus',
-	'Synchronize','Inner Focus',
-	'Guts','Guts',
-	'Guts','Guts',
-	'Guts','Guts',
-	'Chlorophyll','Chlorophyll',
-	'Chlorophyll','Chlorophyll',
-	'Chlorophyll','Chlorophyll',
-	'Clear Body','Liquid Ooze',
-	'Clear Body','Liquid Ooze',
-	'Rock Head','Sturdy',
-	'Rock Head','Sturdy',
-	'Rock Head','Sturdy',
-	'Flame Body','Run Away',
-	'Flame Body','Run Away',
-	'Oblivious','Own Tempo',
-	'Shell Armor','Own Tempo',
-	'Magnet Pull','Sturdy',
-	'Magnet Pull','Sturdy',
-	'Keen Eye','Inner Focus',
-	'Early Bird','Run Away',
-	'Early Bird','Run Away',
-	'Thick Fat','Thick Fat',
-	'Swift Swim','Thick Fat',
-	'Poison Point','Sticky Hold',
-	'Poison Point','Sticky Hold',
-	'Shell Armor','Shell Armor',
-	'Shell Armor','Shell Armor',
-	'Levitate','Levitate',
-	'Levitate','Levitate',
-	'Levitate','Levitate',
-	'Rock Head','Sturdy',
-	'Insomnia','Insomnia',
-	'Insomnia','Insomnia',
-	'Hyper Cutter','Shell Armor',
-	'Hyper Cutter','Shell Armor',
-	'Static','Static',
-	'Static','Static',
-	'Chlorophyll','Chlorophyll',
-	'Chlorophyll','Chlorophyll',
-	'Lightning Rod','Rock Head',
-	'Lightning Rod','Rock Head',
-	'Limber','Limber',
-	'Guts','Guts',
-	'Own Tempo','Oblivious',
-	'Levitate','Levitate',
-	'Levitate','Levitate',
-	'Lightning Rod','Rock Head',
-	'Lightning Rod','Rock Head',
-	'Natural Cure','Serene Grace',
-	'Chlorophyll','Chlorophyll',
-	'Early Bird','Early Bird',
-	'Swift Swim','Swift Swim',
-	'Poison Point','Poison Point',
-	'Swift Swim','Water Veil',
-	'Swift Swim','Water Veil',
-	'Natural Cure','Illuminate',
-	'Natural Cure','Illuminate',
-	'Own Tempo','Own Tempo',
-	'Swarm','Swarm',
-	'Oblivious','Oblivious',
-	'Static','Static',
-	'Flame Body','Flame Body',
-	'Intimidate','Hyper Cutter',
-	'Intimidate','Intimidate',
-	'Swift Swim','Swift Swim',
-	'Intimidate','Intimidate',
-	'Shell Armor','Shell Armor',
-	'Shadow Tag','Shadow Tag',
-	'Run Away','Run Away',
-	'Swift Swim','Swift Swim',
-	'Static','Static',
-	'Flame Body','Flame Body',
-	'Trace','Trace',
-	'Swift Swim','Shell Armor',
-	'Swift Swim','Shell Armor',
-	'Swift Swim','Battle Armor',
-	'Swift Swim','Battle Armor',
-	'Rock Head','Pressure',
-	'Guts','Thick Fat',
-	'Pressure','Pressure',
-	'Pressure','Pressure',
-	'Pressure','Pressure',
-	'Shed Skin','Shed Skin',
-	'Shed Skin','Shed Skin',
-	'Thick Fat','Shed Skin',
-	'Pressure','Run Away',
-	'Synchronize','Synchronize',
-	'Overgrow','Overgrow',
-	'Overgrow','Overgrow',
-	'Thick Fat','Overgrow',
-	'Blaze','Blaze',
-	'Blaze','Blaze',
-	'Blaze','Blaze',
-	'Torrent','Torrent',
-	'Torrent','Torrent',
-	'Battle Armor','Torrent',
-	'Early Bird','Keen Eye',
-	'Early Bird','Keen Eye',
-	'Insomnia','Keen Eye',
-	'Insomnia','Keen Eye',
-	'Early Bird','Swarm',
-	'Early Bird','Swarm',
-	'Insomnia','Swarm',
-	'Insomnia','Swarm',
-	'Inner Focus','Inner Focus',
-	'Volt Absorb','Illuminate',
-	'Volt Absorb','Illuminate',
-	'Static','Static',
-	'Cute Charm','Cute Charm',
-	'Cute Charm','Cute Charm',
-	'Serene Grace','Hustle',
-	'Serene Grace','Hustle',
-	'Early Bird','Synchronize',
-	'Early Bird','Synchronize',
-	'Static','Static',
-	'Static','Static',
-	'Static','Static',
-	'Chlorophyll','Chlorophyll',
-	'Huge Power','Thick Fat',
-	'Huge Power','Thick Fat',
-	'Rock Head','Sturdy',
-	'Swift Swim','Swift Swim',
-	'Chlorophyll','Chlorophyll',
-	'Chlorophyll','Chlorophyll',
-	'Chlorophyll','Chlorophyll',
-	'Vital Spirit','Own Tempo',
-	'Chlorophyll','Chlorophyll',
-	'Chlorophyll','Chlorophyll',
-	'Speed Boost','Compound Eyes',
-	'Water Absorb','Oblivious',
-	'Water Absorb','Oblivious',
-	'Synchronize','Synchronize',
-	'Synchronize','Synchronize',
-	'Insomnia','Insomnia',
-	'Natural Cure','Own Tempo',
-	'Levitate','Levitate',
-	'Levitate','Levitate',
-	'Shadow Tag','Shadow Tag',
-	'Early Bird','Inner Focus',
-	'Rough Skin','Sturdy',
-	'Shell Armor','Sturdy',
-	'Serene Grace','Run Away',
-	'Hyper Cutter','Sand Veil',
-	'Rock Head','Sturdy',
-	'Intimidate','Run Away',
-	'Intimidate','Intimidate',
-	'Swift Swim','Poison Point',
-	'Swarm','Swarm',
-	'Shell Armor','Sturdy',
-	'Guts','Swarm',
-	'Inner Focus','Keen Eye',
-	'Guts','Guts',
-	'Guts','Guts',
-	'Flame Body','Magma Armor',
-	'Flame Body','Flame Body',
-	'Oblivious','Oblivious',
-	'Thick Fat','Oblivious',
-	'Natural Cure','Hustle',
-	'Hustle','Hustle',
-	'Suction Cups','Suction Cups',
-	'Vital Spirit','Hustle',
-	'Swift Swim','Water Veil',
-	'Keen Eye','Sturdy',
-	'Early Bird','Early Bird',
-	'Intimidate','Early Bird',
-	'Swift Swim','Swift Swim',
-	'Cute Charm','Cute Charm',
-	'Battle Armor','Sturdy',
-	'Trace','Trace',
-	'Intimidate','Intimidate',
-	'Own Tempo','Own Tempo',
-	'Guts','Guts',
-	'Intimidate','Guts',
-	'Oblivious','Oblivious',
-	'Static','Static',
-	'Flame Body','Flame Body',
-	'Thick Fat','Thick Fat',
-	'Natural Cure','Serene Grace',
-	'Pressure','Pressure',
-	'Pressure','Pressure',
-	'Pressure','Pressure',
-	'Guts','Guts',
-	'Shed Skin','Shed Skin',
-	'Intimidate','Intimidate',
-	'Pressure','Run Away',
-	'Pressure','Run Away',
-	'Natural Cure','Natural Cure',
-	' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',
-	'Overgrow','Overgrow',
-	'Overgrow','Overgrow',
-	'Overgrow','Overgrow',
-	'Speed Boost','Blaze',
-	'Blaze','Blaze',
-	'Blaze','Blaze',
-	'Torrent','Torrent',
-	'Torrent','Torrent',
-	'Swift Swim','Torrent',
-	'Run Away','Run Away',
-	'Intimidate','Intimidate',
-	'Guts','Guts',
-	'Guts','Guts',
-	'Shield Dust','Shield Dust',
-	'Shed Skin','Shed Skin',
-	'Swarm','Swarm',
-	'Shed Skin','Shed Skin',
-	'Shield Dust','Shield Dust',
-	'Swift Swim','Rain Dish',
-	'Swift Swim','Rain Dish',
-	'Swift Swim','Rain Dish',
-	'Chlorophyll','Early Bird',
-	'Chlorophyll','Early Bird',
-	'Chlorophyll','Early Bird',
-	'Compound Eyes','Compound Eyes',
-	'Speed Boost','Speed Boost',
-	'Wonder Guard','Wonder Guard',
-	'Guts','Guts',
-	'Guts','Guts',
-	'Effect Spore','Effect Spore',
-	'Effect Spore','Effect Spore',
-	'Own Tempo','Own Tempo',
-	'Keen Eye','Keen Eye',
-	'Swift Swim','Keen Eye',
-	'Swift Swim','Swift Swim',
-	'Intimidate','Intimidate',
-	'Pressure','Oblivious',
-	'Pressure','Oblivious',
-	'Cute Charm','Cute Charm',
-	'Cute Charm','Cute Charm',
-	'Color Change','Color Change',
-	'Levitate','Levitate',
-	'Levitate','Levitate',
-	'Battle Armor','Sturdy',
-	'White Smoke','Shell Armor',
-	'Pressure','Pressure',
-	'Oblivious','Oblivious',
-	'Swift Swim','Oblivious',
-	'Swift Swim','Swift Swim',
-	'Shell Armor','Hyper Cutter',
-	'Shell Armor','Hyper Cutter',
-	'Swift Swim','Swift Swim',
-	'Swift Swim','Marvel Scale',
-	'Rough Skin','Rough Skin',
-	'Rough Skin','Rough Skin',
-	'Arena Trap','Hyper Cutter',
-	'Levitate','Levitate',
-	'Levitate','Levitate',
-	'Thick Fat','Guts',
-	'Thick Fat','Guts',
-	'Static','Lightning Rod',
-	'Intimidate','Lightning Rod',
-	'Oblivious','Oblivious',
-	'Magma Armor','Magma Armor',
-	'Thick Fat','Thick Fat',
-	'Thick Fat','Thick Fat',
-	'Rain Dish','Thick Fat',
-	'Sand Veil','Sand Veil',
-	'Sand Veil','Sand Veil',
-	'Inner Focus','Inner Focus',
-	'Intimidate','Inner Focus',
-	'Levitate','Levitate',
-	'Levitate','Levitate',
-	'Huge Power','Thick Fat',
-	'Thick Fat','Own Tempo',
-	'Thick Fat','Own Tempo',
-	'Plus','Plus',
-	'Minus','Minus',
-	'Intimidate','Hyper Cutter',
-	'Pure Power','Pure Power',
-	'Pure Power','Pure Power',
-	'Natural Cure','Natural Cure',
-	'Natural Cure','Natural Cure',
-	'Shadow Tag','Natural Cure',
-	'Levitate','Levitate',
-	'Pressure','Keen Eye',
-	'Natural Cure','Poison Point',
-	'Truant','Truant',
-	'Vital Spirit','Vital Spirit',
-	'Truant','Truant',
-	'Liquid Ooze','Sticky Hold',
-	'Liquid Ooze','Sticky Hold',
-	'Chlorophyll','Chlorophyll',
-	'Vital Spirit','Vital Spirit',
-	'Vital Spirit','Vital Spirit',
-	'Vital Spirit','Vital Spirit',
-	'Shell Armor','Shell Armor',
-	'Swift Swim','Swift Swim',
-	'Swift Swim','Swift Swim',
-	'Pressure','Pressure',
-	'Insomnia','Insomnia',
-	'Insomnia','Insomnia',
-	'Shed Skin','Shed Skin',
-	'Guts','Immunity',
-	'Rock Head','Swift Swim',
-	'Rock Head','Sturdy',
-	'Rock Head','Sturdy',
-	'Rock Head','Sturdy',
-	'Forecast','Forecast',
-	'Swarm','Swarm',
-	'Oblivious','Oblivious',
-	'Suction Cups','Suction Cups',
-	'Suction Cups','Suction Cups',
-	'Battle Armor','Battle Armor',
-	'Battle Armor','Battle Armor',
-	'Synchronize','Synchronize',
-	'Synchronize','Synchronize',
-	'Synchronize','Trace',
-	'Rock Head','Rock Head',
-	'Rock Head','Rock Head',
-	'Intimidate','Intimidate',
-	'Clear Body','Clear Body',
-	'Clear Body','Clear Body',
-	'Clear Body','Clear Body',
-	'Clear Body','Clear Body',
-	'Clear Body','Clear Body',
-	'Clear Body','Clear Body',
-	'Pressure','Run Away',
-	'Rock Head','Run Away',
-	'Pressure','Run Away',
-	'Levitate','Levitate',
-	'Levitate','Levitate',
-	'Serene Grace','Serene Grace',
-	'Pressure','Pressure',
-	'Levitate','Levitate',}
 curve = {
 	5,5,5,5,5,5,5,5,5,0, 0,0,4,4,4,3,3,3,0,0, 0,0,0,0,0,0,0,0,3,3, 3,3,3,3,4,4,0,0,4,4, 5,5,3,3,3,4,4,3,3,5,
 	5,0,0,0,0,3,3,5,5,3, 3,3,5,5,5,5,5,5,3,3, 3,5,5,3,3,3,0,0,3,3, 0,0,4,5,5,0,0,0,0,5, 5,5,5,5,5,5,5,0,0,5,
@@ -1364,13 +976,6 @@ function Game.getSpeciesName(game, id)
 	end
 end
 
-local GBGameEn = Game:new{
-	_terminator=0x50,
-	_monNameLength=10,
-	_speciesNameLength=10,
-	_playerNameLength=10,
-}
-
 local GBAGameEn = Game:new{
 	_terminator=0xFF,
 	_monNameLength=10,
@@ -1378,44 +983,11 @@ local GBAGameEn = Game:new{
 	_playerNameLength=10,
 }
 
-local Generation1En = GBGameEn:new{
-	_boxMonSize=33,
-	_partyMonSize=44,
-	_readBoxMon=readBoxMonGen1,
-	_readPartyMon=readPartyMonGen1,
-}
-
-local Generation2En = GBGameEn:new{
-	_boxMonSize=32,
-	_partyMonSize=48,
-	_readBoxMon=readBoxMonGen2,
-	_readPartyMon=readPartyMonGen2,
-}
-
 local Generation3En = GBAGameEn:new{
 	_boxMonSize=80,
 	_partyMonSize=100,
 	_readBoxMon=readBoxMonGen3,
 	_readPartyMon=readPartyMonGen3,
-}
-
-GBGameEn._charmap = { [0]=
-	"�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�",
-	"�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�",
-	"�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�",
-	"�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�",
-	"�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�",
-	"", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�",
-	"�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�",
-	"�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", " ",
-	"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P",
-	"Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "(", ")", ":", ";", "[", "]",
-	"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p",
-	"q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "é", "ʼd", "ʼl", "ʼs", "ʼt", "ʼv",
-	"�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�",
-	"�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�", "�",
-	"'", "P\u{200d}k", "M\u{200d}n", "-", "ʼr", "ʼm", "?", "!", ".", "ァ", "ゥ", "ェ", "▹", "▸", "▾", "♂",
-	"$", "×", ".", "/", ",", "♀", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"
 }
 
 GBAGameEn._charmap = { [0]=
@@ -1439,112 +1011,6 @@ GBAGameEn._charmap = { [0]=
 
 function _read16BE(emu, address)
 	return (emu:read8(address) << 8) | emu:read8(address + 1)
-end
-
-function Generation1En._readBoxMon(game, address, nameAddress, otAddress)
-	local mon = {}
-	mon.species = emu.memory.cart0:read8(game._speciesIndex + emu:read8(address + 0) - 1)
-	mon.hp = _read16BE(emu, address + 1)
-	mon.level = emu:read8(address + 3)
-	mon.status = emu:read8(address + 4)
-	mon.type1 = emu:read8(address + 5)
-	mon.type2 = emu:read8(address + 6)
-	mon.catchRate = emu:read8(address + 7)
-	mon.moves = {
-		emu:read8(address + 8),
-		emu:read8(address + 9),
-		emu:read8(address + 10),
-		emu:read8(address + 11),
-	}
-	mon.otId = _read16BE(emu, address + 12)
-	mon.experience = (_read16BE(emu, address + 14) << 8)| emu:read8(address + 16)
-	mon.hpEV = _read16BE(emu, address + 17)
-	mon.attackEV = _read16BE(emu, address + 19)
-	mon.defenseEV = _read16BE(emu, address + 21)
-	mon.speedEV = _read16BE(emu, address + 23)
-	mon.spAttackEV = _read16BE(emu, address + 25)
-	mon.spDefenseEV = mon.spAttackEv
-	local iv = _read16BE(emu, address + 27)
-	mon.attackIV = (iv >> 4) & 0xF
-	mon.defenseIV = iv & 0xF
-	mon.speedIV = (iv >> 12) & 0xF
-	mon.spAttackIV = (iv >> 8) & 0xF
-	mon.spDefenseIV = mon.spAttackIV
-	mon.pp = {
-		emu:read8(address + 28),
-		emu:read8(address + 29),
-		emu:read8(address + 30),
-		emu:read8(address + 31),
-	}
-	mon.nickname = game:toString(emu:readRange(nameAddress, game._monNameLength))
-	mon.otName = game:toString(emu:readRange(otAddress, game._playerNameLength))
-	return mon
-end
-
-function Generation1En._readPartyMon(game, address, nameAddress, otAddress)
-	local mon = game:_readBoxMon(address, nameAddress, otAddress)
-	mon.level = emu:read8(address + 33)
-	mon.maxHP = _read16BE(emu, address + 34)
-	mon.attack = _read16BE(emu, address + 36)
-	mon.defense = _read16BE(emu, address + 38)
-	mon.speed = _read16BE(emu, address + 40)
-	mon.spAttack = _read16BE(emu, address + 42)
-	mon.spDefense = mon.spAttack
-	return mon
-end
-
-function  Generation2En._readBoxMon(game, address, nameAddress, otAddress)
-	local mon = {}
-	mon.species = emu:read8(address + 0)
-	mon.item = emu:read8(address + 1)
-	mon.moves = {
-		emu:read8(address + 2),
-		emu:read8(address + 3),
-		emu:read8(address + 4),
-		emu:read8(address + 5),
-	}
-	mon.otId = _read16BE(emu, address + 6)
-	mon.experience = (_read16BE(emu, address + 8) << 8)| emu:read8(address + 10)
-	mon.hpEV = _read16BE(emu, address + 11)
-	mon.attackEV = _read16BE(emu, address + 13)
-	mon.defenseEV = _read16BE(emu, address + 15)
-	mon.speedEV = _read16BE(emu, address + 17)
-	mon.spAttackEV = _read16BE(emu, address + 19)
-	mon.spDefenseEV = mon.spAttackEv
-	local iv = _read16BE(emu, address + 21)
-	mon.attackIV = (iv >> 4) & 0xF
-	mon.defenseIV = iv & 0xF
-	mon.speedIV = (iv >> 12) & 0xF
-	mon.spAttackIV = (iv >> 8) & 0xF
-	mon.spDefenseIV = mon.spAttackIV
-	mon.pp = {
-		emu:read8(address + 23),
-		emu:read8(address + 24),
-		emu:read8(address + 25),
-		emu:read8(address + 26),
-	}
-	mon.friendship = emu:read8(address + 27)
-	mon.pokerus = emu:read8(address + 28)
-	local caughtData = _read16BE(emu, address + 29)
-	mon.metLocation = (caughtData >> 8) & 0x7F
-	mon.metLevel = caughtData & 0x1F
-	mon.level = emu:read8(address + 31)
-	mon.nickname = game:toString(emu:readRange(nameAddress, game._monNameLength))
-	mon.otName = game:toString(emu:readRange(otAddress, game._playerNameLength))
-	return mon
-end
-
-function Generation2En._readPartyMon(game, address, nameAddress, otAddress)
-	local mon = game:_readBoxMon(address, nameAddress, otAddress)
-	mon.status = emu:read8(address + 32)
-	mon.hp = _read16BE(emu, address + 34)
-	mon.maxHP = _read16BE(emu, address + 36)
-	mon.attack = _read16BE(emu, address + 38)
-	mon.defense = _read16BE(emu, address + 40)
-	mon.speed = _read16BE(emu, address + 42)
-	mon.spAttack = _read16BE(emu, address + 44)
-	mon.spDefense = _read16BE(emu, address + 46)
-	return mon
 end
 
 function Generation3En._readBoxMon(game, address)
@@ -1660,58 +1126,6 @@ function Generation3En._readPartyMon(game, address)
 	return mon
 end
 
-local gameRBEn = Generation1En:new{
-	name="Red/Blue (USA)",
-	_party=0xd16b,
-	_partyCount=0xd163,
-	_partyNames=0xd2b5,
-	_partyOt=0xd273,
-	_speciesNameTable=0x1c21e,
-	_speciesIndex=0x41024,
-}
-
-local gameYellowEn = Generation1En:new{
-	name="Yellow (USA)",
-	_party=0xd16a,
-	_partyCount=0xd162,
-	_partyNames=0xd2b4,
-	_partyOt=0xd272,
-	_speciesNameTable=0xe8000,
-	_speciesIndex=0x410b1,
-}
-
-local gameGSEn = Generation2En:new{
-	name="Gold/Silver (USA)",
-	_party=0xda2a,
-	_partyCount=0xda22,
-	_partyNames=0xdb8c,
-	_partyOt=0xdb4a,
-	_speciesNameTable=0x1b0b6a,
-}
-
-local gameCrystalEn = Generation2En:new{
-	name="Crystal (USA)",
-	_party=0xdcdf,
-	_partyCount=0xdcd7,
-	_partyNames=0xde41,
-	_partyOt=0xddff,
-	_speciesNameTable=0x5337a,
-}
-
-local gameRubyEn = Generation3En:new{
-	name="Ruby (USA)",
-	_party=0x3004360,
-	_partyCount=0x3004350,
-	_speciesNameTable=0x1f716c,
-}
-
-local gameSapphireEn = Generation3En:new{
-	name="Sapphire (USA)",
-	_party=0x3004360,
-	_partyCount=0x3004350,
-	_speciesNameTable=0x1f70fc,
-}
-
 local gameEmeraldEn = Generation3En:new{
 	name="Emerald (USA)",
 	_party=0x20244ec,
@@ -1719,52 +1133,8 @@ local gameEmeraldEn = Generation3En:new{
 	_speciesNameTable=0x3185c8,
 }
 
-local gameFireRedEn = Generation3En:new{
-	name="FireRed (USA)",
-	_party=0x2024284,
-	_partyCount=0x2024029,
-	_speciesNameTable=0x245ee0,
-}
-
-local gameFireRedEnR1 = gameFireRedEn:new{
-	name="FireRed (USA) (Rev 1)",
-	_speciesNameTable=0x245f50,
-}
-
-local gameLeafGreenEn = Generation3En:new{
-	name="LeafGreen (USA)",
-	_party=0x2024284,
-	_partyCount=0x2024029,
-	_speciesNameTable=0x245ebc,
-}
-
-local gameLeafGreenEnR1 = gameLeafGreenEn:new{
-	name="LeafGreen (USA)",
-	_party=0x2024284,
-	_partyCount=0x2024029,
-	_speciesNameTable=0x245f2c,
-}
-
 gameCodes = {
-	["DMG-AAUE"]=gameGSEn, -- Gold
-	["DMG-AAXE"]=gameGSEn, -- Silver
-	["CGB-BYTE"]=gameCrystalEn,
-	["AGB-AXVE"]=gameRubyEn,
-	["AGB-AXPE"]=gameSapphireEn,
 	["AGB-BPEE"]=gameEmeraldEn,
-	["AGB-BPRE"]=gameFireRedEn,
-	["AGB-BPGE"]=gameLeafGreenEn,
-}
-
--- These versions have slight differences and/or cannot be uniquely
--- identified by their in-header game codes, so fall back on a CRC32
-gameCrc32 = {
-	[0x9f7fdd53] = gameRBEn, -- Red
-	[0xd6da8a1a] = gameRBEn, -- Blue
-	[0x7d527d62] = gameYellowEn,
-	[0x3358e30a] = gameCrystal, -- Crystal rev 1
-	[0x84ee4776] = gameFireRedEnR1,
-	[0xdaffecec] = gameLeafGreenEnR1,
 }
 
 function printPartyStatus(game, buffer)
@@ -1784,11 +1154,7 @@ function detectGame()
 	for i, v in ipairs({emu:checksum(C.CHECKSUM.CRC32):byte(1, 4)}) do
 		checksum = checksum * 256 + v
 	end
-	game = gameCrc32[checksum]
-	if not game then
-		game = gameCodes[emu:getGameCode()]
-	end
-
+	game = gameCodes[emu:getGameCode()]
 	if not game then
 		console:error("Unknown game!")
 	else
@@ -1805,23 +1171,23 @@ function statusSlot(slot, status)
 	end
 end
 
-function sleep(slot)
+function slp(slot)
     statusSlot(slot, 1)
 end
 
-function poison(slot)
+function psn(slot)
     statusSlot(slot, 8)
 end
 
-function burn(slot)
+function brn(slot)
     statusSlot(slot, 16)
 end
 
-function freeze(slot)
+function frz(slot)
     statusSlot(slot, 32)
 end
 
-function paralyze(slot)
+function prz(slot)
     statusSlot(slot, 64)
 end
 
@@ -1925,6 +1291,7 @@ function edge(slot, xpToLevelUp)
 end
 
 function printMon(mon)
+
 	str = ""
 	str = str .. mon.nickname .. " (" .. firstCase(game:getSpeciesName(mon.species) .. ")")
 	if (item[mon.heldItem]) then
@@ -2011,7 +1378,7 @@ function getbits(a, b, d)
 	return (a >> b) % (1 << d)
 end
 
-function heal(slot)
+function healmon(slot)
 	if (slot>game._partyCount or slot<1) then
 		console:log("Invalid Slot, slot out of range")
 	else
@@ -2047,29 +1414,29 @@ function heal(slot)
 	end
 end
 
-function nursejoy()
+function heal()
 	for i=emu:read8(game._partyCount),1,-1 do
-		heal(i)
+		healmon(i)
 	end
 end
 
 function help()
 	buffer:clear()
 	buffer:print("Available commands:\n")
-	buffer:print(" sleep(slot) - Pre-sleeps chosen slot in party\n")
-	buffer:print(" poison(slot) - Poisons chosen slot in party\n")
-	buffer:print(" paralyze(slot) - Paralyzes chosen slot in party\n")
-	buffer:print(" burn(slot) - Burns chosen slot in party\n")
-	buffer:print(" freeze(slot) - Freezes chosen slot in party\n")
+	buffer:print(" slp(slot) - Pre-sleeps chosen slot in party\n")
+	buffer:print(" psn(slot) - Poisons chosen slot in party\n")
+	buffer:print(" prz(slot) - Paralyzes chosen slot in party\n")
+	buffer:print(" brn(slot) - Burns chosen slot in party\n")
+	buffer:print(" frz(slot) - Freezes chosen slot in party\n")
 	buffer:print(" bedtime() - Pre-sleeps entire party\n")
-	buffer:print(" sethp(slot,HP) - sets hp of slot to specified hp\n")
-	buffer:print(" getabilities() - exports ability slots\n")
-	buffer:print(" edge(slot) - edges slot\n")
-	buffer:print(" edge(slot, amt) - edges slot to specific amount\n")
-	buffer:print(" edgeparty() - edges entire party\n")
-	buffer:print(" setrain(route, status) - sets rain on/off on route 119 or 123\n")
-	buffer:print(" heal(slot) - heals all HP, PP and status for that party slot\n")
-	buffer:print(" nursejoy() - heals all HP, PP and status for the entire party\n")
+	buffer:print(" sethp(slot,HP) - Sets mon's HP.\n")
+	buffer:print(" getabilities() - Exports ability slots.\n")
+	buffer:print(" edge(slot) - Edges slot.\n")
+	buffer:print(" edge(slot, amt) - Edges slot to specific amount.\n")
+	buffer:print(" edgeparty() - Edges EXP of entire party\n")
+	buffer:print(" setrain(route, status) - Sets rain on/off on route 119 or 123.\n")
+	buffer:print(" healmon(slot) - Slot is fully healed.\n")
+	buffer:print(" heal() - Full party heal.\n")
 end
 
 callbacks:add("start", detectGame)
